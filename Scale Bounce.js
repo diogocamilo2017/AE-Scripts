@@ -1,3 +1,4 @@
+//Bounce
 amp = .1;
 freq = 2.0;
 decay = 5.0;
